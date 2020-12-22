@@ -15,6 +15,8 @@ That should print:
 Try changing the 'Hello' to 'Howdy' and run again.
 Once you have that working, you're ready for class -- you can edit
 and run Python code; now you just need to learn Python!
+  Testing tabs
+  Testing auto indent
 """
 
 import sys
@@ -26,7 +28,7 @@ def main():
     name = sys.argv[1]
   else:
     name = 'World'
-  print 'Hello', name
+  print 'Howdy Cowboy', name, sys.argv, len(sys.argv)
 
 # This is the standard boilerplate that calls the main() function.
 if __name__ == '__main__':
