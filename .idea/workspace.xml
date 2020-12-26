@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42b8a2ab-04ff-496b-a8f0-1e9972ddd3c4" name="Default Changelist" comment="" />
+    <list default="true" id="42b8a2ab-04ff-496b-a8f0-1e9972ddd3c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-python-exercises/basic/list1.py" beforeDir="false" afterPath="$PROJECT_DIR$/google-python-exercises/basic/list1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-python-exercises/basic/string1.py" beforeDir="false" afterPath="$PROJECT_DIR$/google-python-exercises/basic/string1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="42d2d864-df26-494e-a832-4215d710232a" />
   </component>
   <component name="ProjectId" id="1m1tCSGt4cy3AhO32xVPD0yXRz6" />
   <component name="ProjectViewState">
@@ -19,6 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

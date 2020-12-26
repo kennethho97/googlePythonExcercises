@@ -78,7 +78,7 @@ def fix_start(s):
 # Assume a and b are length 2 or more.
 def mix_up(a, b):
   if len(a) < 2 or len(b) < 2:
-    #length less than 2
+    #length less than 2...
     return
   else:
     firstA = a[0:2]
