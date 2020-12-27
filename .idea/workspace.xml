@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42b8a2ab-04ff-496b-a8f0-1e9972ddd3c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/google-python-exercises/basic/solution/alice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-python-exercises/basic/solution/small.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-python-exercises/basic/list1.py" beforeDir="false" afterPath="$PROJECT_DIR$/google-python-exercises/basic/list1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-python-exercises/basic/wordcount.py" beforeDir="false" afterPath="$PROJECT_DIR$/google-python-exercises/basic/wordcount.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +30,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/google-python-exercises/basic/solution" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/google-python-exercises/basic/solution" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,5 +48,16 @@
       <updated>1608672796361</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
