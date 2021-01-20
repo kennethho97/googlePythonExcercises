@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42b8a2ab-04ff-496b-a8f0-1e9972ddd3c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/google-python-exercises/basic/solution/alice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google-python-exercises/basic/solution/small.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-python-exercises/basic/wordcount.py" beforeDir="false" afterPath="$PROJECT_DIR$/google-python-exercises/basic/wordcount.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
