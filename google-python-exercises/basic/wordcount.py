@@ -38,7 +38,7 @@ print_words() and print_top().
 """
 
 import sys
-
+print("File one __name__ is set to: {}" .format(__name__))
 
 # Define print_words(filename) and print_top(filename) functions.
 # You could write a helper utility function that reads a file
